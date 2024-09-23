@@ -12,3 +12,4 @@ C:\Users\Rw\source\repos\DSA C#\DSA C#\obj\Debug\net8.0\refint\DSA C#.dll
 C:\Users\Rw\source\repos\DSA C#\DSA C#\obj\Debug\net8.0\DSA C#.pdb
 C:\Users\Rw\source\repos\DSA C#\DSA C#\obj\Debug\net8.0\DSA C#.genruntimeconfig.cache
 C:\Users\Rw\source\repos\DSA C#\DSA C#\obj\Debug\net8.0\ref\DSA C#.dll
+C:\Users\Rw\source\repos\DSA C#\DSA C#\obj\Debug\net8.0\DSA C#.sourcelink.json

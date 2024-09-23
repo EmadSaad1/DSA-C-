@@ -140,7 +140,33 @@ namespace DSA_C_
 
 
         }
+        public int findmissingnumber(int[] arr) 
+        { 
+            int n=arr.Length+1;
+            int sum = n * (n + 1) / 2;
+            foreach (int i in arr)
+            {
+                sum -= i;
+            }
+        return sum;
+        }
+        public bool isplaindrome(string word)
+        {
+            char[] chararray = word.ToCharArray();
+            int start = 0;
+            int end = chararray.Length - 1;
+            for (int i = 0; i < chararray.Length; i++)
+            {
+                if (chararray[start] != chararray[end])
+                {
+                    return false;
+                }
+                start++;
+                end--;
 
 
+            }
+            return true;
+        }
     }
 }
